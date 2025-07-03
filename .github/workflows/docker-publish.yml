@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: n4vip/v1:latest
+          tags: n4vip/v2:latest
